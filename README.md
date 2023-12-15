@@ -1,3 +1,3 @@
 # Learning
 
-I collect learning note for different topics here :)
+I collect learning notes for different topics here :)
